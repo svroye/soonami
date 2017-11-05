@@ -8,6 +8,8 @@ Used in a Udacity course in the Android Basics Nanodegree.
 The data is retrieved from the USGS service.
 https://earthquake.usgs.gov/fdsnws/event/1/
 
+This is used for getting to know how HTTP requests work, and how the response data can be read and parsed.
+
 Pre-requisites
 --------------
 
